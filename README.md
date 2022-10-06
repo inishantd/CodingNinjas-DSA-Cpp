@@ -12,7 +12,7 @@ Order complexity analysis, Theoretical complexity analysis, Time complexity anal
  👉🏻BASICS OF OOPS<br>
 Introduction to OOPS, Creating objects, Getters and setters, Constructors and related concepts, Inbuilt constructor and destructor, Example classes.
 
- 👉🏻ADVANCE CONCEPTS OF OOPS<b><br>
+ 👉🏻ADVANCE CONCEPTS OF OOPS<br>
 Static members, Function overloading and related concepts, Abstraction, Encapsulation, Inheritance, Polymorphism, Virtual functions, Abstract classes, Exception handling.
 
  👉🏻LINKED LISTS<br>
